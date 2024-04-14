@@ -1,0 +1,3 @@
+Q. 7) Explore:
+Can the same function name be used for different functions without any conflict?
+Answer :: Yes, and this is called Function overloading.
